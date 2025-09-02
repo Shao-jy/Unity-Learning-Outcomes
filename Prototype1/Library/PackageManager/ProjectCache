@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638911976164289627
-    m_Hash: 3247969027
+      ticks: 638923349240860445
+    m_Hash: 2783105791
   m_LockFileStatus:
     m_FilePath: C:/Users/shaojy/Desktop/Unity/Prototype1/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638911976164334710
-    m_Hash: 3319508678
+      ticks: 638923349240860445
+    m_Hash: 2962982665
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -124,11 +124,13 @@ m_ResolvedPackages:
     - 2.8.1
     - 2.8.2
     - 2.9.1
+    - 2.9.2
     compatible:
     - 2.7.1
     - 2.8.1
     - 2.8.2
     - 2.9.1
+    - 2.9.2
     recommended: 2.7.1
     deprecated: []
   dependencies: []
@@ -404,6 +406,7 @@ m_ResolvedPackages:
     - 3.2.0-pre.10
     - 3.2.0-pre.11
     - 3.2.0-pre.12
+    - 3.2.0-pre.13
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     compatible:
@@ -422,6 +425,7 @@ m_ResolvedPackages:
     - 3.2.0-pre.10
     - 3.2.0-pre.11
     - 3.2.0-pre.12
+    - 3.2.0-pre.13
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     recommended: 3.0.9
